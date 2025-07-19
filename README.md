@@ -24,5 +24,6 @@ To implement, fine-tune, and evaluate prominent **multi-document abstractive sum
 
 ---
 
+## Result 
 
-
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/46a343e0-02e8-4ca0-b94e-921dd9a5bc7d" />
